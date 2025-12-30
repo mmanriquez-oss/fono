@@ -1,0 +1,7 @@
+{
+  "name": "PronunciaAI - Coach de Pronunciación",
+  "description": "Una aplicación avanzada impulsada por IA para practicar y mejorar tu pronunciación en cualquier idioma mediante análisis de audio en tiempo real.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
